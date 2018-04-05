@@ -1,0 +1,17 @@
+.header {
+    background-color: $color-primary;
+    font-family: $font-primary;
+    color: $color-white;
+    padding: 6rem;
+
+    &--header {
+        font-size: 4rem;
+
+    }
+
+    &--sub {
+        font-size: 1.2rem;
+        
+    }
+
+}

@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0; }
+
+html {
+  font-size: 62.5%;
+  background-color: #0E1C2C; }
+
+.header {
+  background-color: #FF403E;
+  font-family: Poppins;
+  color: #fff;
+  padding: 6rem; }
+  .header--header {
+    font-size: 4rem; }
+  .header--sub {
+    font-size: 1.2rem; }
